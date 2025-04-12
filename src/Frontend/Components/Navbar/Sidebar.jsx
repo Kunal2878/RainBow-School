@@ -305,7 +305,7 @@ const Sidebar = ({ isOpen, role, onMenuClick }) => {
     `}
     >
       <div className="px-4 mt-4 flex items-center justify-between">
-        <Link to="/" className="h3 font-medium text-black gap-2 flex flex-row items-center">
+        <Link to="/" className="h4 font-medium text-black gap-2 flex flex-row items-center">
         
         <img src={rainbow} alt="Rainbow Senior Secondary School Logo" className="size-8 rounded-full" />
         
